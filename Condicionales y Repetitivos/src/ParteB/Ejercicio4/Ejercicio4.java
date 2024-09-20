@@ -6,12 +6,11 @@ public class Ejercicio4 {
         int montoPrestamo, cuotaMensual;
         double tasaIntereses, totalPago = 0;
         Scanner t = new Scanner(System.in);
-        Scanner l = new Scanner(System.in);
-        Scanner n = new Scanner(System.in);
+
         System.out.println("Ingrese el monto del prestamo");
-        montoPrestamo = l.nextInt();
+        montoPrestamo = t.nextInt();
         System.out.println("Ingrese la cantidad de meses");
-        cuotaMensual = n.nextInt();
+        cuotaMensual = t.nextInt();
         System.out.println("Ingresa la tasa de interes mensual");
         tasaIntereses = t.nextInt();
         for (int i = 0; i < cuotaMensual; i++){
