@@ -14,7 +14,7 @@ public class Ejercicio4 {
         System.out.println("Ingresa la tasa de interes mensual");
         tasaIntereses = t.nextInt();
         for (int i = 0; i < cuotaMensual; i++){
-            totalPago = montoPrestamo / cuotaMensual + (tasaIntereses / 100) * (montoPrestamo / cuotaMensual);
+            totalPago += montoPrestamo / cuotaMensual + (tasaIntereses / 100) * (montoPrestamo / cuotaMensual);
         }
         System.out.printf("%nEl valor total de la cuota es de %.2f", totalPago);
     }
