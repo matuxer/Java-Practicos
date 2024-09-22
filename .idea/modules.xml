@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Condicionales y Repetitivos/Condicionales y Repetitivos.iml" filepath="$PROJECT_DIR$/Condicionales y Repetitivos/Condicionales y Repetitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Instrucciones Secuenciales/Instrucciones Secuenciales.iml" filepath="$PROJECT_DIR$/Instrucciones Secuenciales/Instrucciones Secuenciales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juego Arrays/Juego Arrays.iml" filepath="$PROJECT_DIR$/Juego Arrays/Juego Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juego TATETI/Juego TATETI.iml" filepath="$PROJECT_DIR$/Juego TATETI/Juego TATETI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Practicos Java Programacion.iml" filepath="$PROJECT_DIR$/.idea/Practicos Java Programacion.iml" />
+    </modules>
+  </component>
+</project>
