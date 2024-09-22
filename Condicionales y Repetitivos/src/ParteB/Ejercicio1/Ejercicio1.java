@@ -16,7 +16,6 @@ public class Ejercicio1 {
         for (int i = 1; i <= meses; i++) {
             float ahorrado = sueldo * (ahorro / 100);
             ahorroAcumulado += ahorrado;
-
         }
         System.out.println("En "+ meses + " mese/s ahorro un total de $"+ ahorroAcumulado );
     }
